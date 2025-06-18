@@ -188,10 +188,3 @@ If you see **"Cannot execute request on any known server"**, follow these steps:
 
 Contributions are welcome! 🎉  
 Please feel free to submit a **Pull Request**.
-
----
-
-## ✍️ Author
-
-**Jaime Rocha**  
-📌 [GitHub Profile](https://github.com/jaimerocha)
